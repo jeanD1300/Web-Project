@@ -4,7 +4,7 @@ This repository contains several web development projects focusing on HTML, CSS,
 
 ## Projects
 
-[Project 1: Shoes Shop](./Web-Project/project1-shoes_shop/index.html)
+[Project 1: Shoes Shop](./Web-Project/project1-shoes_shop/index.html)(https://shoes-shopnk.vercel.app/)
 
 
 ## About
